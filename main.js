@@ -137,7 +137,7 @@ $(function () {
         },
         "MAJEZİK": {
             bilgi: "Parasetamol ve propifenazon içeren bir ilaçtır. Baş ağrısı, migren ve diğer ağrıların tedavisinde kullanılır.",
-            kullanim: "Günde 3 defa bir tablet alınmalıdır."
+            kullanim: "Günde 1 defa bir tablet alınmalıdır."
         },
         "TERAGRİP": {
             bilgi: "Soğuk algınlığı ve grip semptomlarının hafifletilmesinde kullanılır.",
